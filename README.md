@@ -28,3 +28,10 @@ This is the backend server for Campus Chat, a simple real-time chat system for s
 
 - npm install
 - npm start
+
+# Hosted
+
+The code is hosted in render free tier so used the uptimerobot to prevent the cold start.
+
+- **Render:** [https://campustalk-backend-zoc5.onrender.com](https://campustalk-backend-zoc5.onrender.com)
+- **UptimeRobot:** [https://uptimerobot.com](https://uptimerobot.com)
